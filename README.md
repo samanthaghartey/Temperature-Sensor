@@ -10,15 +10,6 @@ A real-time temperature monitoring system using the ESP32 microcontroller, which
 - Displays live temperature data on a web dashboard.
 - Automatically updates every minute.
 
-## Demo
-
-[![](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-> [Watch Demo on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-Live demo: [your-frontend-url.com](https://your-frontend-url.com)
-
----
 
 ## Tech Stack
 
