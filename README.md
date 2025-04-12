@@ -42,6 +42,6 @@ A real-time temperature monitoring system using the ESP32 microcontroller, which
 ### Backend
 
 ```bash
-git clone https://github.com/yourusername/esp32-temp-monitor.git
-cd esp32-temp-monitor/backend
+git clone https://github.com/samanthaghartey/Temperature-Sensor.git
+cd Temperature-Sensor/backend
 npm install
